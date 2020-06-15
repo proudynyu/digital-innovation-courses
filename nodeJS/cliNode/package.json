@@ -1,0 +1,13 @@
+{
+  "name": "cliNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "search-files.js",
+  "scripts": {
+    "search-file": "./bin/search-files"
+  },
+  "files":["./bin"],
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
